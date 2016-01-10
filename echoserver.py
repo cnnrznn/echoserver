@@ -32,5 +32,3 @@ while 1:
     # TODO handle socket read either
     #   1. accept() new connection
     #   2. read data from socket
-
-msock.close()
